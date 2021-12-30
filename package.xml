@@ -17,11 +17,13 @@
   <build_depend>rqt_gui_cpp</build_depend>
   <build_depend>qt_gui_cpp</build_depend>
   <build_depend>std_msgs</build_depend>
+  <build_depend>rclcpp_cascade_lifecycle</build_depend>
 
   <exec_depend>rqt_gui</exec_depend>
   <exec_depend>rqt_gui_cpp</exec_depend>
   <exec_depend>qt_gui_cpp</exec_depend>
   <exec_depend>std_msgs</exec_depend>
+  <exec_depend>rclcpp_cascade_lifecycle</exec_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
